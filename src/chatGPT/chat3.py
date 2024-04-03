@@ -1,3 +1,5 @@
+#Corresponde al punto 3 del TP
+
 from openai import OpenAI
 #deimport readline  # Necesario para leer la entrada del usuario con "cursor Up"
 
