@@ -1,3 +1,5 @@
+#CORRESPONDE AL PUNTO 4 DEL TP
+
 from openai import OpenAI
 #import readline  # Necesario para leer la entrada del usuario con "cursor Up"
 import sys
@@ -90,3 +92,4 @@ def main():
 if __name__ == "__main__":
     main()
 
+input ()
