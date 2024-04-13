@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #CORRESPONDE AL PUNTO 4 DEL TP
+=======
+#Corresponde al punto 4 del TP
+>>>>>>> 858153b9d5799dc0840a37882e9eba52514c5bdc
 
 from openai import OpenAI
 #import readline  # Necesario para leer la entrada del usuario con "cursor Up"
